@@ -1,4 +1,5 @@
 # Mercedes
+
 import curses
 import random
 
