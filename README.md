@@ -47,7 +47,7 @@ def main(stdscr):
         if fire < sh - 1:
             w.addch(fire_y, fire_x, '*')
         else:
-            bomb_x = alien_x
+            fire_x = alien_x
             bomb_y = alien_y + 1
 
         # Move bomb
