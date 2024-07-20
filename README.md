@@ -44,7 +44,7 @@ def main(stdscr):
             alien_y = 1
 
         # Draw fire
-        if bomb_y < sh - 1:
+        if fire < sh - 1:
             w.addch(bomb_y, bomb_x, '*')
         else:
             bomb_x = alien_x
