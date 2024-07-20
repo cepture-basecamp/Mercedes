@@ -17,8 +17,8 @@ def main(stdscr):
     alien_x = random.randint(1, sw-2)
     alien_y = 1
 
-    bomb_x = alien_x
-    bomb_y = alien_y + 1
+    fire_x = alien_x
+    fire_y = alien_y + 1
 
     lives = 5
     score = 0
