@@ -1,3 +1,5 @@
+TEST 3
+
 # Mercedes
 
 import curses
