@@ -1,15 +1,6 @@
 
 
 
-
-
-
-TEST9 
-
-TEST8
-
-# Mercedes
-
 import curses
 import random
 
