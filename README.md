@@ -2,6 +2,8 @@ TEST7
 
 # Mercedes
 
+test 1
+
 import curses
 import random
 
